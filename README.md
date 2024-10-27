@@ -35,6 +35,6 @@
 
 ###
 
-<p align="left">Profile icon by <a href="https://www.freepik.com" target="_blank">freepik</a>.</p>
+<p align="left">Profile icon by <a href="https://www.freepik.com" target="_blank">Freepik</a>.</p>
 
 ###
